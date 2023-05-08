@@ -6,7 +6,7 @@
 #include <queue>
 using namespace std;
 
-const int n = 6;
+const int n = 6; // какой-то коэффициент
 int dist[n] = { 0, 0, 0, 0, 0, 0 }; // массив меток посещённых вершин
 									//матрица смежности графа
 int graph[n][n] =
