@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+d:\pyscript\cprojects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\PyScript\CProjects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\PyScript\CProjects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
